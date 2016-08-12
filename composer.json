@@ -1,0 +1,21 @@
+{
+    "name": "mediumeditor/yii2-medium-editor",
+    "description": "Text editor use medium",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bukapeta",
+            "email": "hendrikus.richardo@bukapeta.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "bukapeta\\mediumeditor\\": ""
+        }
+    }
+}
