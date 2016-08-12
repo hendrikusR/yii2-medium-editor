@@ -31,5 +31,3 @@ class Widget extends \yii\widgets\InputWidget
         $view->registerJs(implode(PHP_EOL, $js));
     }
 }
-Contact GitHub API Training Shop Blog About
-© 2016 GitHub, Inc. Terms Privacy Security Status Help
